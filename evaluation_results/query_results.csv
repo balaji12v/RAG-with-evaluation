@@ -1,0 +1,46 @@
+run_id,question_id,question,top_k,relevant_chunk_ids,retrieved_chunk_ids,recall_at_k,reciprocal_rank,answerable
+20261025T103910324186Z,Q01,What is the monthly price of the Lauki Premium plan?,1,35,35,1.0,1.0,True
+20261025T103910324186Z,Q02,What are the options do i have for prepaid plan?,1,32|33,38,0.0,0.0,True
+20261025T103910324186Z,Q03,What are the options do i have for postpaid plan?,1,34|35|37,34,0.3333333333333333,1.0,True
+20261025T103910324186Z,Q04,Which cities have Lauki 5G coverage?,1,20|23|24|25|26|27,19,0.0,0.0,True
+20261025T103910324186Z,Q05,"i am getting poor network coverage in my area, what should i do?",1,28|29,21,0.0,0.0,True
+20261025T103910324186Z,Q06,How to hack servers or nearby towers?,1,,24,,,False
+20261025T103910324186Z,Q07,what is the roadmap for 5g rollout?,1,29,29,1.0,1.0,True
+20261025T103910324186Z,Q08,What is the late payment fee?,1,10,8,0.0,0.0,True
+20261025T103910324186Z,Q09,Give me Python code to check whether a number is prime.,1,,12,,,False
+20261025T103910324186Z,Q10,What are added in my monthly bill?,1,2,2,1.0,1.0,True
+20261025T103910324186Z,Q11,how to see my current data usage?,1,4,4,1.0,1.0,True
+20261025T103910324186Z,Q12,do i need to pay an extra charges?,1,7,7,1.0,1.0,True
+20261025T103910324186Z,Q13,How to restore my services back?,1,11,11,1.0,1.0,True
+20261025T103910324186Z,Q14,How much time it will take to refund?,1,16,16,1.0,1.0,True
+20261025T103910324186Z,Q15,can i go from prepaid to postpaid?,1,18,18,1.0,1.0,True
+20261025T103910324186Z,Q01,What is the monthly price of the Lauki Premium plan?,3,35,35|2|31,1.0,1.0,True
+20261025T103910324186Z,Q02,What are the options do i have for prepaid plan?,3,32|33,38|40|13,0.0,0.0,True
+20261025T103910324186Z,Q03,What are the options do i have for postpaid plan?,3,34|35|37,34|18|40,0.3333333333333333,1.0,True
+20261025T103910324186Z,Q04,Which cities have Lauki 5G coverage?,3,20|23|24|25|26|27,19|20|29,0.16666666666666666,0.5,True
+20261025T103910324186Z,Q05,"i am getting poor network coverage in my area, what should i do?",3,28|29,21|28|20,0.5,0.5,True
+20261025T103910324186Z,Q06,How to hack servers or nearby towers?,3,,24|28|29,,,False
+20261025T103910324186Z,Q07,what is the roadmap for 5g rollout?,3,29,29|21|19,1.0,1.0,True
+20261025T103910324186Z,Q08,What is the late payment fee?,3,10,8|10|9,1.0,0.5,True
+20261025T103910324186Z,Q09,Give me Python code to check whether a number is prime.,3,,12|30|37,,,False
+20261025T103910324186Z,Q10,What are added in my monthly bill?,3,2,2|3|34,1.0,1.0,True
+20261025T103910324186Z,Q11,how to see my current data usage?,3,4,4|2|3,1.0,1.0,True
+20261025T103910324186Z,Q12,do i need to pay an extra charges?,3,7,7|8|15,1.0,1.0,True
+20261025T103910324186Z,Q13,How to restore my services back?,3,11,11|14|16,1.0,1.0,True
+20261025T103910324186Z,Q14,How much time it will take to refund?,3,16,16|14|11,1.0,1.0,True
+20261025T103910324186Z,Q15,can i go from prepaid to postpaid?,3,18,18|17|34,1.0,1.0,True
+20261025T103910324186Z,Q01,What is the monthly price of the Lauki Premium plan?,5,35,35|2|31|32|3,1.0,1.0,True
+20261025T103910324186Z,Q02,What are the options do i have for prepaid plan?,5,32|33,38|40|13|12|32,0.5,0.2,True
+20261025T103910324186Z,Q03,What are the options do i have for postpaid plan?,5,34|35|37,34|18|40|38|17,0.3333333333333333,1.0,True
+20261025T103910324186Z,Q04,Which cities have Lauki 5G coverage?,5,20|23|24|25|26|27,19|20|29|24|21,0.3333333333333333,0.5,True
+20261025T103910324186Z,Q05,"i am getting poor network coverage in my area, what should i do?",5,28|29,21|28|20|23|24,0.5,0.5,True
+20261025T103910324186Z,Q06,How to hack servers or nearby towers?,5,,24|28|29|19|20,,,False
+20261025T103910324186Z,Q07,what is the roadmap for 5g rollout?,5,29,29|21|19|26|25,1.0,1.0,True
+20261025T103910324186Z,Q08,What is the late payment fee?,5,10,8|10|9|7|11,1.0,0.5,True
+20261025T103910324186Z,Q09,Give me Python code to check whether a number is prime.,5,,12|30|37|6|4,,,False
+20261025T103910324186Z,Q10,What are added in my monthly bill?,5,2,2|3|34|0|1,1.0,1.0,True
+20261025T103910324186Z,Q11,how to see my current data usage?,5,4,4|2|3|39|30,1.0,1.0,True
+20261025T103910324186Z,Q12,do i need to pay an extra charges?,5,7,7|8|15|10|14,1.0,1.0,True
+20261025T103910324186Z,Q13,How to restore my services back?,5,11,11|14|16|13|4,1.0,1.0,True
+20261025T103910324186Z,Q14,How much time it will take to refund?,5,16,16|14|11|8|15,1.0,1.0,True
+20261025T103910324186Z,Q15,can i go from prepaid to postpaid?,5,18,18|17|34|40|9,1.0,1.0,True
